@@ -34,6 +34,7 @@ Replace files directly in `editable/assets/` or update paths in `editable/weddin
 - Background music: `editable/assets/bg-music.mp3`
 - Rings & vignette: `editable/assets/rings-seashell-vignette.png`
 - Venue map graphic: `editable/assets/venue-map-Wf_iSDI1.jpg`
+- Venue directions QR code: `editable/assets/venue-qr.png`
 - Footer wash backdrop: `editable/assets/footer-wash-DG1rtX_C.jpg`
 - Opener video: `editable/assets/wedding-opener.mp4`
 

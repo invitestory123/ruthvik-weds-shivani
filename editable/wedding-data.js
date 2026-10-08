@@ -16,9 +16,10 @@ window.WEDDING_DATA = {
   },
 
   venue: {
-    name: "H.O Convention Hall",
-    address: "Bhavanipuram, Vijayawada, Andhra Pradesh 520012",
-    mapsUrl: "https://maps.app.goo.gl/LJHVesFn4trqkPBBA?g_st=ic",
+    name: "H.O. Convention Hall",
+    address: "Urmilanagar, Bhavanipuram, Vijayawada, Andhra Pradesh 520012",
+    mapsUrl: "https://share.google/dzXPJKhvYKG56K8dt",
+    qrCode: "./editable/assets/venue-qr.png",
   },
 
   events: [
@@ -27,7 +28,7 @@ window.WEDDING_DATA = {
       glyph: "☀",
       date: "5 Nov 2026",
       time: "10:00 AM",
-      venue: "H.O Convention Hall, Bhavanipuram, Vijayawada",
+      venue: "H.O. Convention Hall, Urmilanagar, Bhavanipuram, Vijayawada",
       note: "Together with our families, we invite you to celebrate our union.",
     },
   ],
@@ -48,6 +49,7 @@ window.WEDDING_DATA = {
     hero: "./editable/assets/hero-arch.jpg",
     ringsVignette: "./editable/assets/rings-seashell-vignette.png",
     venueMap: "./editable/assets/venue-map-Wf_iSDI1.jpg",
+    venueQr: "./editable/assets/venue-qr.png",
     footerWash: "./editable/assets/footer-wash-DG1rtX_C.jpg",
     openerVideo: "./editable/assets/wedding-opener.mp4",
     ogImage: "./editable/assets/couple.jpg",
